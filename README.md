@@ -1,4 +1,4 @@
-#reactJS-loja-redux-reduxsaga
+# reactJS-loja-redux-reduxsaga
 Aplicação web de uma loja virtual afim de aprendizagem de utilização das tecnologiade estados globais e side effects do React, Redux e Redux-saga.
 
 Tecnologias

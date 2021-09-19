@@ -10,5 +10,7 @@ Requisitos: Node 10 ou superior e gerenciador de pacotes yarn
 
 git clone do projeto;
 com terminal aberto na pasta o projeto:
-# yarn install
-# yarn start
+```
+ yarn install
+ yarn start
+```
